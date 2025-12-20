@@ -3,4 +3,4 @@ tuna2134のサイトへようこそ
 
 - [メインページ](https://tuna2134.jp)
 - [Neodyland](https://neody.land)
-- [Neody Networks](https://neody.app)
+- [Neody Networks](https://neody.ad.jp)
